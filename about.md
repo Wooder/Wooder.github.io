@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a versatile developer with an GTD attitude. My current passion is iOS development. Also did a lot of Java (Enterprise) and .Net-Stuff in the past.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[spamjoe@email.de](mailto:spamjoe@email.de)
